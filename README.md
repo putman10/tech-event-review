@@ -1,5 +1,5 @@
 # Tech Event Review
-####Optional Independent Javascript Project Writeup
+###Optional Independent Javascript Project Writeup
 
 1. **What was the name of the tech event? What date did it occur?** **Junior Developer Happy Hour** on Wednesday, August 15, 2018
 5:30 PM to 7:30 PM at White Owl Social Club 1305 Se 8th Ave https://www.meetup.com/Portland-JR-DEVELOPER-Meetup/events/246615957/
